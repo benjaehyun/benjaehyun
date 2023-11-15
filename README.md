@@ -21,8 +21,8 @@ I'm Ben, a passionate software developer on a journey to explore the realms of t
 
 🤝 **Let's Connect**
 
-- 💬 I'm active on <a href="https://www.linkedin.com/in/benjaehyun/" target="_blank">LinkedIn</a>, and I love connecting with fellow developers.
-- 🖥️ Check out my portfolio here <a href="https://www.benjaelee.com/" target="_blank">Portfolio</a>, if you're interested in learning more about me.
+- 💬 I'm active on <a href="https://www.linkedin.com/in/benjaehyun/" target="_blank" rel="noopener noreferrer">LinkedIn</a>, and I love connecting with fellow developers.
+- 🖥️ Check out my portfolio here <a href="https://www.benjaelee.com/" target="_blank" rel="noopener noreferrer">Portfolio</a>, if you're interested in learning more about me.
 
 
 
