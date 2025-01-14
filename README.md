@@ -11,7 +11,7 @@ I'm Ben, a passionate software developer on a journey to explore the realms of t
 
 🚀 **What I'm Working On**
 
-- 🔭 Currently, I'm working on "lowKEY", a dating app based on your spotify profile and "brewista", a comprehensive digital companion for coffee brewing.
+- 🔭 Currently, I'm working on "Gively", a social donation app for charitable giving and resource sharing and "brewista", a comprehensive digital companion for coffee brewing.
 - 🌐 You can check out my latest projects right here on GitHub.
 
 💡 **I'm Open to Collaboration**
