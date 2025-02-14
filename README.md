@@ -11,7 +11,8 @@ I'm Ben, a passionate software developer on a journey to explore the realms of t
 
 🚀 **What I'm Working On**
 
-- 🔭 Currently, I'm working on "Gively", a social donation app for charitable giving and resource sharing and "brewista", a comprehensive digital companion for coffee brewing.
+- 🔭 Currently, I'm working on "Gively", a social donation app for charitable giving and resource sharing and "brewista", a comprehensive digital companion for coffee brewing. I've also been compiling some of
+  my most reused react components using a variety of technologies and libraries I've used in the past, also rewriting them in Typescript to become more familiar. 
 - 🌐 You can check out my latest projects right here on GitHub.
 
 💡 **I'm Open to Collaboration**
