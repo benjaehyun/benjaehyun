@@ -27,7 +27,7 @@ I'm Ben, a passionate software developer on a journey to explore the realms of t
 
 
 
-🚀 Thanks for stopping by, and I can't wait to embark on this coding adventure with you! 
+🚀 Thanks for stopping by, and I can't wait to continue on this coding journey with you! 
 
 
 <!--
