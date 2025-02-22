@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ben, a passionate software developer on a journey to explore the realms of technology. With an insatiable curiosity and a love for coding, I constantly seek opportunities to learn, create, and innovate.
+I'm Ben, a software developer with a love for elegant solutions to enrich user experiences. With a STEM background and entrepreneurial experience, I bring a new perspective in my approach to software development,
 
 🌱 **About Me**
 
@@ -17,7 +17,7 @@ I'm Ben, a passionate software developer on a journey to explore the realms of t
 
 💡 **I'm Open to Collaboration**
 
-- 👯 I'm always open to collaborating on projects that pique my interest.
+- 👯 I'm always open to collaborating on projects.
 - 📫 Feel free to reach out to me at <a href="mailto:benjaminjaelee@gmail.com">benjaminjaelee@gmail.com</a>.
 
 🤝 **Let's Connect**
