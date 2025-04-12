@@ -26,8 +26,7 @@ I'm Ben, a software engineer with a love for interesting problems and elegant so
 
 
 
-🚀 Thanks for stopping by, and I can't wait to continue on this coding journey with you! 
-
+Thanks for stopping by!
 
 <!--
 **benjaehyun/benjaehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
